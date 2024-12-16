@@ -2,6 +2,7 @@
 
 _Proyecto realizado con react expo go, actualmente esta en pausa._
 
+_Repositorio_ - [BACKEND](https://github.com/PaulGuillen/E-Commerce-BackEnd/tree/main)
 ## Comenzando 🚀
 
 _Para comenzar debes instalar las siguientes librerias._
