@@ -1,4 +1,6 @@
-const API_BASE_URL = "http://192.168.100.13:3000";
+import API_BASE_URL from "../environments/baseUrl";
+
+/**Your ipv4 in BaseURL*/
 
 export const environment = {
   apiUserLogin: API_BASE_URL + "/users",

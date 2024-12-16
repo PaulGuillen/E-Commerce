@@ -3,7 +3,8 @@
 # dependencies
 node_modules/
 
-src/data/environments/environment.js
+# Ignorar el archivo base_url.js
+src/data/environments/baseUrl.js
 
 # Expo
 .expo/
