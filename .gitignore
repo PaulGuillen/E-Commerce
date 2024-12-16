@@ -3,6 +3,8 @@
 # dependencies
 node_modules/
 
+src/data/environments/environment.js
+
 # Expo
 .expo/
 dist/
