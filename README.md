@@ -1,6 +1,6 @@
-# RestaurantEcommerceReact
+# # E-Commerce
 
-_Proyecto realizado con react expo go, actualmente esta en pleno desarollo._
+_Proyecto realizado con react expo go, actualmente esta en pausa._
 
 ## Comenzando 🚀
 
